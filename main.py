@@ -385,4 +385,4 @@ async def rps(ctx):
     await ctx.send(message)
 
 # ------------------------ RUN ------------------------ # 
-bot.run(token)
+bot.run("OTA2MDcwNTM4Mjc4MDQzNjY4.GFQT7a.VB-XJJiEyWttU3b-XuZi_FgjjEUdls-ydDp97Q")
