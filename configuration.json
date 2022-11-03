@@ -1,0 +1,33 @@
+{
+    
+    "token":"OTA2MDcwNTM4Mjc4MDQzNjY4.GtqPS4.e-ml0ZJiIaivjxKiMh5ZRvpZKY-0UfnMuonCZY",
+    "nyatokens":"ODY3MjEwMjQyOTIzOTU0MjE2.GH_N7o.hBv4lDw3RG2s9FrS22RI_fuaIw3-d4X04nmQeg",
+    
+    "prefix": "!",
+    
+    "playlistLimit": "200",
+    "sponsorblock": true,
+    
+    "spotifyClientId": "d993716fdda9438281b6f2a81acbc506",
+    "spotifyClientSecret": "302d1908b2ee4ce0bfaaede6f7bc788e",
+
+    "dblToken": "",
+
+    "lavalinkHost": "151.106.113.116",
+    "lavalinkPort": 2333,
+    "lavalinkRestUri": "http://151.106.113.116:2333",
+    "lavalinkPassword": "youshallnotpass",
+    "lavalinkIdentifier": "Nyanoh",
+    "lavalinkRegion": "jp",
+
+    "MySQLHost": "151.106.113.116",
+    "MySQLPort": 3306,
+    "MySQLLogin": "kein",
+    "MySQLPasword": "Hatsunemiku1!",
+    "MySQLDatabase": "NyaMusic",
+
+    "ReimuAcc_Name":"kein",
+    "ReimuDB_Name":"reimu_ai",
+    "ReimuPort":3306,
+    "ReimuPass":"Hatsunemiku1!"
+}
